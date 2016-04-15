@@ -1,8 +1,9 @@
-汉字拼音相关参考资料
+汉字与拼音相关参考资料
+---
 
 此项目为我在开发 overtrue/pinyin 时所用到的参考的资料收集，旨在方便有同样需求的朋友。
 
-汉字的多音字处理
+## 汉字的多音字处理
 
 以下内容摘自: 《汉语同音字和多音字处理方法研究》- 杨宪泽,谈文蓉,刘玉萍,张  楠,殷  锋
 
@@ -19,24 +20,24 @@
 - 边界条件
     该特征是有的字在句首 、句末或不同位置读音不同，更多地体现在一些语气助词上面 。例如 “了” 在句中和句末时读音往往不会相同 。
 
-参考资料
+## 参考资料
 
-文章
+### 文章
 
 - 《汉语转拼音-----带音调和多音字识别》
 - 《C#分词算法：正向、逆向、双向最大匹配算法》
 
-统计与分析文档
+### 统计与分析文档
 
 - 《Frequency statistics 频率统计 - 音素和音节频率》- http://lingua.mtsu.edu
 - 《Syllable frequencies with tones 记调音节频率》- http://lingua.mtsu.edu
 - 《Character frequency lists 汉字单字频率列表》- http://lingua.mtsu.edu
 
-需求设计
+### 需求设计
 
 - 汉字转拼音 (hz2py)
 
-网站
+### 网站
 
 - CC-CEDICT
 - UNICODE CHARACTER DATABASE
@@ -44,11 +45,11 @@
 - 汉典
 - 开源词典
 
-论文
+### 论文
 
 - 《汉语同音字和多音字处理方法研究》- 杨宪泽,谈文蓉,刘玉萍,张  楠,殷  锋
 
-开源项目
+### 开源项目
 
 - janx/ruby-pinyin
 - hotoo/node-pinyin
@@ -56,6 +57,6 @@
 - "结巴"中文分词
 - 中文书刊排版相关标准和规范
 
-License
+### License
 
 CC0 1.0 Universal
