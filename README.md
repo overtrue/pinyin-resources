@@ -1,7 +1,7 @@
 汉语拼音相关参考资料
 ---
 
-此项目为我在开发 [overtrue/pinyin](/overtrue/pinyin) 时所用到的参考的资料收集，旨在方便有同样需求的朋友。
+此项目为我在开发 [overtrue/pinyin](https://github.com/overtrue/pinyin) 时所用到的参考的资料收集，旨在方便有同样需求的朋友。
 
 ## 汉字的多音字处理
 
