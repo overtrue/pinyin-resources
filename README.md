@@ -52,6 +52,8 @@ _以下内容摘自: [《汉语同音字和多音字处理方法研究》- 杨�
 - [lingua.mtsu.edu - 中文文本计算](http://lingua.mtsu.edu/chinese-computing/)
 - [汉典](http://www.zdic.net/)
 - [开源词典](http://kaifangcidian.com/)
+- [中华语文知识库（大陆版）](http://www.zhonghuayuwen.org/)
+- [中華語文知識庫（台灣版）](http://chinese-linguipedia.org/clk/)
 
 #### 论文
 
